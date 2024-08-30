@@ -1,0 +1,164 @@
+{
+    "reviews": [
+      {
+        "id": 1,
+        "professorName": "Dr. Smith",
+        "course": "Introduction to Psychology",
+        "rating": 4.5,
+        "date": "2024-03-15",
+        "comment": "Dr. Smith is an excellent lecturer. The course material was challenging but presented in an engaging way."
+      },
+      {
+        "id": 2,
+        "professorName": "Prof. Johnson",
+        "course": "Advanced Calculus",
+        "rating": 3.8,
+        "date": "2024-02-28",
+        "comment": "Prof. Johnson knows the subject well, but sometimes struggles to explain complex concepts clearly."
+      },
+      {
+        "id": 3,
+        "professorName": "Dr. Lee",
+        "course": "World History",
+        "rating": 4.9,
+        "date": "2024-04-02",
+        "comment": "Dr. Lee's passion for history is contagious. The class discussions were always thought-provoking."
+      },
+      {
+        "id": 4,
+        "professorName": "Prof. Garcia",
+        "course": "Organic Chemistry",
+        "rating": 3.2,
+        "date": "2024-03-20",
+        "comment": "The course was very difficult, and Prof. Garcia's teaching style didn't help much. More office hours would be appreciated."
+      },
+      {
+        "id": 5,
+        "professorName": "Dr. Patel",
+        "course": "Introduction to Computer Science",
+        "rating": 4.7,
+        "date": "2024-04-10",
+        "comment": "Dr. Patel makes programming fun and accessible. Great projects and hands-on learning experiences."
+      },
+      {
+        "id": 6,
+        "professorName": "Prof. Anderson",
+        "course": "Environmental Science",
+        "rating": 4.2,
+        "date": "2024-03-25",
+        "comment": "Prof. Anderson's field trips really brought the subject to life. Assignments were relevant and interesting."
+      },
+      {
+        "id": 7,
+        "professorName": "Dr. Nguyen",
+        "course": "Quantum Physics",
+        "rating": 4.6,
+        "date": "2024-04-05",
+        "comment": "Dr. Nguyen has a gift for explaining complex theories. Challenging but rewarding course."
+      },
+      {
+        "id": 8,
+        "professorName": "Prof. Williams",
+        "course": "Marketing Strategy",
+        "rating": 3.9,
+        "date": "2024-03-12",
+        "comment": "Prof. Williams brings real-world experience to the classroom. Some lectures were a bit disorganized."
+      },
+      {
+        "id": 9,
+        "professorName": "Dr. Brown",
+        "course": "Renaissance Literature",
+        "rating": 4.8,
+        "date": "2024-04-18",
+        "comment": "Dr. Brown's enthusiasm for the subject is infectious. Insightful analysis and engaging discussions."
+      },
+      {
+        "id": 10,
+        "professorName": "Prof. Martinez",
+        "course": "Macroeconomics",
+        "rating": 3.5,
+        "date": "2024-03-30",
+        "comment": "Prof. Martinez covers the material thoroughly, but the pace can be overwhelming at times."
+      },
+      {
+        "id": 11,
+        "professorName": "Dr. Taylor",
+        "course": "Human Anatomy",
+        "rating": 4.4,
+        "date": "2024-04-22",
+        "comment": "Dr. Taylor's interactive lab sessions were incredibly helpful. Clear explanations and patient with questions."
+      },
+      {
+        "id": 12,
+        "professorName": "Prof. Chang",
+        "course": "International Relations",
+        "rating": 4.1,
+        "date": "2024-03-08",
+        "comment": "Prof. Chang offers balanced perspectives on global issues. Assignments encourage critical thinking."
+      },
+      {
+        "id": 13,
+        "professorName": "Dr. Roberts",
+        "course": "Artificial Intelligence",
+        "rating": 4.7,
+        "date": "2024-04-15",
+        "comment": "Dr. Roberts is at the forefront of AI research. Challenging projects, but great learning experience."
+      },
+      {
+        "id": 14,
+        "professorName": "Prof. Kim",
+        "course": "Modern Art History",
+        "rating": 4.3,
+        "date": "2024-03-22",
+        "comment": "Prof. Kim's visual presentations are excellent. Could improve on providing more context for certain periods."
+      },
+      {
+        "id": 15,
+        "professorName": "Dr. Davis",
+        "course": "Molecular Biology",
+        "rating": 3.7,
+        "date": "2024-04-08",
+        "comment": "Dr. Davis is knowledgeable, but the course felt rushed. More time for lab work would be beneficial."
+      },
+      {
+        "id": 16,
+        "professorName": "Prof. Wilson",
+        "course": "Financial Accounting",
+        "rating": 4.0,
+        "date": "2024-03-18",
+        "comment": "Prof. Wilson explains concepts clearly. Homework can be repetitive, but it reinforces the material well."
+      },
+      {
+        "id": 17,
+        "professorName": "Dr. Lopez",
+        "course": "Cognitive Psychology",
+        "rating": 4.6,
+        "date": "2024-04-25",
+        "comment": "Dr. Lopez's research-based approach is refreshing. Interesting experiments and thought-provoking lectures."
+      },
+      {
+        "id": 18,
+        "professorName": "Prof. Harris",
+        "course": "Constitutional Law",
+        "rating": 4.2,
+        "date": "2024-03-05",
+        "comment": "Prof. Harris brings the law to life with real case studies. Demanding but fair in assessments."
+      },
+      {
+        "id": 19,
+        "professorName": "Dr. Murphy",
+        "course": "Astrophysics",
+        "rating": 4.8,
+        "date": "2024-04-20",
+        "comment": "Dr. Murphy's passion for space is out of this world. Complex topics explained with clarity and enthusiasm."
+      },
+      {
+        "id": 20,
+        "professorName": "Prof. Foster",
+        "course": "Digital Marketing",
+        "rating": 3.9,
+        "date": "2024-03-28",
+        "comment": "Prof. Foster incorporates current trends well. More hands-on projects would enhance the learning experience."
+      }
+    ]
+  }
